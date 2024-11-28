@@ -1,6 +1,6 @@
 const express = require('express');
 const { Imgur } = require('imgur-uploader-api')
-const { alldl } = require('imran-dlmedia');
+const { alldl } = require('aryan-dlmedia');
 const path = require('path');
 const axios = require('axios')
 
